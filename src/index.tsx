@@ -3,8 +3,8 @@ import './mainStyles.scss';
 
 interface Props { }
 
-export const NavBar: React.FC<Props> = () => {
+export const BoilerPlate: React.FC<Props> = () => {
     return (
-        <div className="header">Blasasdad</div>
+        <div className="header">AAs</div>
     )
 } 
